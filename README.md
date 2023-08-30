@@ -1,3 +1,3 @@
 # SuperStoreProj
 OOP | Numpy | Python
-programming project creating a superstore application
+/nprogramming project creating a superstore application
