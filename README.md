@@ -1,0 +1,2 @@
+# SuperStoreProj
+OOP | Numpy | Python
